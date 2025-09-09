@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💭 deeply interested in games, they’ve been a huge source of inspiration for me.
 
     .. strawberry buns, cupcake ♡🍡
-🍰 currently learning and exploring laravel to strengthen my web development skills.
+🍰 currently learning and exploring laravel to strengthen my web development skills. <br>
 🥛 fun fact about me, i like to decorate everything in pink. 
 
 

@@ -1,6 +1,6 @@
 ![header gif](img/mymelody.gif)
 
-## hi-ho bunnies! im abhista ^___=3 an who enthusiastic girl who really loves pinky <💖3
+## hi-ho bunnies! im abhista ^___=3 an enthusiastic girl who really loves pinky <💖3
 
 <!--
 **abh1sta/abh1sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

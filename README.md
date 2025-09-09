@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
     .. sweet chocolate, dolly ♡🌟
 🎀 loves to turn ideas and creativity into reality through code. <br>
-🍥 Believe that creativity can flow from both art and technology.
-🍓 enjoy watching anime & movies, especially those in the fantasy genre.
+🍥 Believe that creativity can flow from both art and technology. <br>
+🍓 enjoy watching anime & movies, especially those in the fantasy genre. <br>
 💭 deeply interested in games, they’ve been a huge source of inspiration for me.
 
     .. strawberry buns, cupcake ♡🍡

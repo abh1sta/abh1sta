@@ -1,6 +1,6 @@
-## hi-ho! im abhista ^___=3 👋
+![header gif](img/mymelody.gif)
 
-![header gif](img/header.gif)
+## hi-ho bunnies! im abhista ^___=3 a girl who is enthusiastic and really likes pinky <💖3
 
 <!--
 **abh1sta/abh1sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    .. sweet chocolate, dolly ♡🌟
+🎀 loves to turn ideas and creativity into reality through code.
+🍥 Believe that creativity can flow from both art and technology.
+🍓 enjoy watching anime & movies, especially those in the fantasy genre.
+💭 deeply interested in games, they’ve been a huge source of inspiration for me.
+
+    .. strawberry buns, cupcake ♡🍡
+🍰 currently learning and exploring laravel to strengthen my web development skills.
+🥛 fun fact about me, i like to decorate everything in pink. 
+
+
+
+
